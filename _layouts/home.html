@@ -48,7 +48,16 @@
           {% include thoughts.html %}
         {% endunless %}
         
-        {% include JHumberd.html %}
+        <h2 {% if site.style == 'dark' %}class="text-white"{% endif %}>Jesse Humberd Problems</h2>
+        <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">Current and past problems for the Jesse Humberd Scholarship</p>
+        <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
+          {% for problem in site.problems limit: 6 %}
+            <div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-3">
+              {% include problem-card.html %}
+            </div>
+          {% endfor %}
+        </div>
+        
       </div>
     </div>
   </div>
