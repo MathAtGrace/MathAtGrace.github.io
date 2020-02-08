@@ -4,6 +4,7 @@
   {% for post in site.problems limit: 6 %}
     <div class="col-sm-6 col-md-12 col-lg-6 col-xl-4 mb-3">
       {% include post-card.html %}
+      <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">post card goes here</p>
     </div>
   {% endfor %}
 </div>
