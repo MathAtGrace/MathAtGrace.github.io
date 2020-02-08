@@ -12,17 +12,13 @@
       {% include projects.html %}
     </div>
 
-    {% if site.topics %}
-      <div class="my-6">
-        {% include interests.html %}
-      </div>
-    {% endif %}
-
     {% unless posts_total == 0 %}
       <div class="my-6">
         {% include thoughts.html %}
       </div>
     {% endunless %}
+    
+    {% include JHumberd.html %}
   </div>
 {% else %}
   <div class="d-md-flex min-height-full {% unless site.style == 'dark' %}border-md-bottom{% endunless %}">
