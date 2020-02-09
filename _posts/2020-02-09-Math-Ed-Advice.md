@@ -12,7 +12,7 @@ from Deb:
  
 ### Extend grace to yourself.
 Adjusting to college life on top of learning how to study for college-level courses is no easy task. Remind yourself of that, take deep breaths often, and view challenges or failures as opportunities to grow! As an aspiring educator of 6th-12th grade students, you may be wondering why in the world you need to take a multitude of upper level courses including Linear Algebra and Probability Theory.
-[//]: # (You might be raising your eyebrows in disbelief or licking your lips in the face of challenge.)
+[](You might be raising your eyebrows in disbelief or licking your lips in the face of challenge.)
 You might feel flat out underqualified. So did I. As I struggled through those courses, I found myself questioning my decision to teach math. I wondered what happened to me because I excelled at math in high school and loved doing math, but now the content of these courses didn't come as easy and I wasn't so sure.
 
 *I realized that a similar situation might be true for my future students.* Perhaps they excelled at 7th grade math the previous year, then when Pre Algebra hit, it didn't come as easy and they weren't so sure. By digging my heels in and working hard to understand the material and view these challenges as opportunities to grow, I feel more equipped to relate with my students in 'the struggle' and encourage them to seize opportunities for growth. 
