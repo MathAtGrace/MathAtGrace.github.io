@@ -5,7 +5,7 @@ author: Deb Michalski
 
 ### The following Advice for First Year Math Education students was given to us by Deb Michaski, who recently graduated at the end of fall semester, 2019.
 
-Deb graduated with a major in mathematics education while also playing on the women's volleyball team.
+Deb is a fourth year mathematics education major who is currently student teaching overseas in Kosovo.  She played on the women's volleyball team all four seasons.
 
 <img src="../../../../images/2020-Feb/Deb_Michalski.jfif" alt="Deb Michaski" style="width: 40%;"/>
 
