@@ -6,7 +6,7 @@ title: "Advice for First Year Math Education Students"
 
 Deb graduated with a major in mathematics education while also playing on the women's volleyball team.
 
-<img src="../../../../images/2020-Feb/Deb_Michaski.jpg" alt="Deb Michaski" style="width: 40%;"/>
+<img src="../../../../images/2020-Feb/Deb_Michaski.jfif" alt="Deb Michaski" style="width: 40%;"/>
 
  
 Extend grace to yourself. Adjusting to college life on top of learning how to study for college-level courses is no easy task. Remind yourself of that, take deep breaths often, and view challenges or failures as opportunities to grow! As an aspiring educator of 6th-12th grade students, you may be wondering why in the world you need to take a multitude of upper level courses including Linear Algebra and Probability Theory.
