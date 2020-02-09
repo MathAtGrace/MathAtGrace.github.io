@@ -1,5 +1,6 @@
 ---
 title: "Advice for First Year Math Education Students"
+author: Deb Michalski
 ---
 
 ### The following Advice for First Year Math Education students was given to us by Deb Michaski, who recently graduated at the end of fall semester, 2019.
