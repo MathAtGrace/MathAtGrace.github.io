@@ -1,11 +1,11 @@
 ---
-title: "Advice for First Year Math Education Students"
+title: "Advice for Math Education Majors"
 author: Deb Michalski
 ---
 
 ### The following Advice for First Year Math Education students was given to us by Deb Michaski, who recently graduated at the end of fall semester, 2019.
 
-Deb is a fourth year mathematics education major who is currently student teaching overseas in Kosovo.  She played on the women's volleyball team all four seasons.
+Deb graduated from Grace with a major in mathematics education last December.  She is currently teaching overseas in Kosovo.  She played on the women's volleyball team all four seasons.
 
 <img src="../../../../images/2020-Feb/Deb_Michalski.jfif" alt="Deb Michaski" style="width: 40%;"/>
 
@@ -26,3 +26,6 @@ Ask for help! The professors are more than just 'willing to help you', and it is
 
 ### Community works.
 Your classmates are your friends, not your competition! Chances are, if you're struggling to understand a concept, you're not the only one. Get together with your classmates and work through it together. I highly recommend study/hangouts. In my opinion, what's better than a big ole' math assignment than a big ole' math assignment with friends!? The math lounge is a pretty fun place. I considered it my second home. :) And, as weird as it may seem, my math nerd friends and I have such deep bonds from getting slap happy from studying into the wee hours of the morning in our second home. And while math was the basis for our friendship at first, I have been blessed to share meals and engage in deep conversation, spend spring break, and continue relationship with my dear friends as we have scattered all over the world.
+
+### Hard Work Pays Off: 
+Just as the saying goes, all of your upcoming hard work will pay off and you will be equipped to teach the beautiful subject of math to aspiring young minds in an engaging and memorable way at the conclusion of your time as a math education major. Not only did I come away with a better understanding of and compassion for my students and the struggles they face, but also a plethora of practical instructional and management strategies that I have already begun implementing in my classroom. Will this be easy? For some, perhaps. But for others, it will not. I think that's what makes the accomplishment that much grander. I can look back at my 3.5 years and remember the struggles I faced, but more importantly, I can recount the triumphs that met each of those struggles and be thankful for the opportunities I was given to grow. Though I questioned my decision to major in math education in my first year, *I am so glad I continued on the path!* Regardless of what twists and turns your path takes, I pray that you will be able to embrace opportunities for growth all along the way.
