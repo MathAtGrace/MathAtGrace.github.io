@@ -34,6 +34,6 @@ Not only did I come away with a better understanding of and compassion for my st
 I think that's what makes the accomplishment that much grander.-->
 I can look back at my 3.5 years and remember the struggles I faced, but more importantly, I can recount the triumphs that met each of those struggles and be thankful for the opportunities I was given to grow. Though I questioned my decision to major in math education in my first year, *I am so glad I continued on the path!* Regardless of what twists and turns your path takes, I pray that you will be able to embrace opportunities for growth all along the way.
 
-
+-----
 
 To hear more from Deb about what she's doing in Kosovo and how you can pray for her, check out her [personal blog](https://michalskideborah.wixsite.com/kosovo).
